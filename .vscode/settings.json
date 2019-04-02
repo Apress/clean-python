@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/skapil/miniconda3/envs/codev/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.formatting.provider": "black"
+}
